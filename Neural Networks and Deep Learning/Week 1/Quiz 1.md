@@ -21,7 +21,7 @@ Yes. Finding the characteristics of a model is key to have good performance. Alt
 ```
 
 5. Which one of these plots represents a ReLU activation function?
-- ![question5]('question5.png)
+- ![question5](question5.png)
 
 6. Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
 - False
